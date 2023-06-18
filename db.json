@@ -1,0 +1,29 @@
+{
+  "events": [
+    {
+      "title": "Book Club Meeting",
+      "id": 1,
+      "date": "19 June"
+    },
+    {
+      "title": "Art Exhibition Opening",
+      "id": 2,
+      "date": "12 August"
+    },
+    {
+      "title": "Movie Night",
+      "id": 3,
+      "date": "20 July"
+    },
+    {
+      "title": "Charity Fundraiser",
+      "id": 4,
+      "date": "2 September"
+    },
+    {
+      "title": "Science Fair",
+      "id": 5,
+      "date": "5 August"
+    }
+  ]
+}
