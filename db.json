@@ -1,29 +1,34 @@
 {
   "events": [
     {
-      "title": "Book Club Meeting",
       "id": 1,
-      "date": "19 June"
+      "title": "Book Club Meeting",
+      "date": "19 June",
+      "details": "Join us for a lively discussion on the latest bestseller."
     },
     {
-      "title": "Art Exhibition Opening",
       "id": 2,
-      "date": "12 August"
+      "title": "Art Exhibition Opening",
+      "date": "12 August",
+      "details": "Explore a collection of breathtaking artworks by local artists."
     },
     {
-      "title": "Movie Night",
       "id": 3,
-      "date": "20 July"
+      "title": "Movie Night",
+      "date": "20 July",
+      "details": "Grab your popcorn and enjoy a night of cinematic masterpieces."
     },
     {
-      "title": "Charity Fundraiser",
       "id": 4,
-      "date": "2 September"
+      "title": "Charity Fundraiser",
+      "date": "2 September",
+      "details": "Support a great cause and make a difference in the community."
     },
     {
-      "title": "Science Fair",
       "id": 5,
-      "date": "5 August"
+      "title": "Science Fair",
+      "date": "5 August",
+      "details": "Discover the wonders of science through interactive exhibits."
     }
   ]
 }
